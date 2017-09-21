@@ -52,6 +52,5 @@ python facedetect.py
 python peopledetect.py
 ```
 You should see an output such as the following:
-**Image coming soon**
 [![N|Solid](https://github.com/dbhatt0217/APeX-Sample1/blob/master/crew.png)]
 
