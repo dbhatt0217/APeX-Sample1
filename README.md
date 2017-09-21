@@ -53,5 +53,5 @@ python peopledetect.py
 ```
 You should see an output such as the following:
 **Image coming soon**
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]
+[![N|Solid](https://github.com/dbhatt0217/APeX-Sample1/blob/master/crew.png)]
 
